@@ -1,3 +1,5 @@
+
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -15,3 +17,5 @@ if __name__ == '__main__':
     url = 'https://example.com'
     scraped_data = scrape_website(url)
     print(scraped_data)
+
+# This is a comment added to demonstrate committing changes in Git
